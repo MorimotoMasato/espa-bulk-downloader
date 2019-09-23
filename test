@@ -1,0 +1,13 @@
+JSON message body for the espa-api:
+
+{
+  "olitirs8_collection": {
+    "inputs": [
+      "LC08_L1TP_112036_20180716_20180730_01_T1"
+    ],
+    "products": [
+      "sr"
+    ]
+  },
+  "format": "gtiff"
+}
